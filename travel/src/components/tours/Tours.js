@@ -15,4 +15,3 @@ function Tours({props}) {
 }
 
 export default Tours;
-
